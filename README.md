@@ -14,7 +14,7 @@ One should cite all these papers for using the following codes.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MATLAB code prepard by Sayantan Dutta
-E-mail: sayantan.dutta@irit.fr and sayantan.dutta110@gmail.com
+E-mail: sdu4004@med.cornell.edu and sayantan.dutta110@gmail.com
 
 Please contact Sayantan Dutta for any further communications.
 
